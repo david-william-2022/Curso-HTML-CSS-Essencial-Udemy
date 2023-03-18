@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+html {
+    font-family: arial;
+    font-size: 62.5%;
+}
+
+header {
+    background-color: #000;
+    color: #fff;
+    width: 100%;
+}
+
+footer{    
+    background-color: #000;
+    color: #fff;
+    width: 100%;
+}
+.conteudo{
+    font-size: 1.6rem;
+    background-color: #fff;
+    padding: 1rem;
+}
