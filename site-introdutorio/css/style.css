@@ -39,3 +39,16 @@ h3{
 figure{
     text-align: center;
 }
+.imagens-site{
+    border-radius: 20px 20px 50px 20px;
+    width: 30%;
+    height: 10%;
+
+}
+@media(min-width: 280px) and (max-width: 800px){
+    .imagens-site{
+        border-radius: 20px, 20px, 50px;
+        width: 90%;
+        height: 70%;
+    }
+}
